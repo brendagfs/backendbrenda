@@ -1,0 +1,20 @@
+{
+  "name": "backendbrenda",
+  "version": "1.0.0",
+  "description": "servidor backend para estudo da turma 3 info 2025",
+  "main": "src/server.js",
+  "type":"module",
+  "scripts": {
+    "start": "node --watch src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "zod"
+  ],
+  "author": "brenda",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
